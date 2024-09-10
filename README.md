@@ -2,7 +2,6 @@
 
 <div align = "center"> 
  
-안녕하세요 계속 성장하고 있는 <br>Unity 개발자 양은수 입니다!
 
 ###  📝 Blog 📝 (개편중)
 <a href="https://gamjada.tistory.com/?page=1">
