@@ -4,7 +4,7 @@
  
 안녕하세요 계속 성장하고 있는 <br>Unity 개발자 양은수 입니다!
 
-###  📝 Blog 📝 
+###  📝 Blog 📝 (개편중)
 <a href="https://gamjada.tistory.com/?page=1">
   <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
