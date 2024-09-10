@@ -3,14 +3,17 @@
 <div align = "center"> 
 
 ###  📝 Blog 📝 
+ <a href="[https://gamjada.tistory.com/?page=1]">
   <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
-  <a href="[https://gamjada.tistory.com/?page=1]">
+ 
 
 <br>
 <br>
 <br>
 
   ###  :blue_book: Portfolio 
-  <img src="https://img.shields.io/badge/Notion-00000?style=for-the-badge&logo=Notion&logoColor=white" />
   <a href="[https://www.notion.so/Unity-11a544300ec6498f984abba69c4170ad]">
+  <img src="https://img.shields.io/badge/Notion-00000?style=for-the-badge&logo=Notion&logoColor=white" />
+
+
 
