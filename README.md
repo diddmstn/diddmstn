@@ -12,9 +12,3 @@
 <br>
 <br>
 
-###  :blue_book: Portfolio 
-<a href="https://www.notion.so/Unity-11a544300ec6498f984abba69c4170ad">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
-</a>
-
-
